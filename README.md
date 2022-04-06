@@ -8,8 +8,8 @@ Please read the [[Contributing Guidelines]](https://docs.osutube.nl/contributing
 
 # Links
 ## OpenSource uTube
-[uTube](https://osutube.nl)
+[uTube](https://osutube.nl) (Landing Site)
 
-[ut3.ggpht](https://ggpht.ga)
-# API
-[utubei/v1](https://api.osutube.nl)
+[ut3.ggpht](https://ggpht.ga) (image CDN)
+## API
+[utubei/v1](https://api.osutube.nl) (API landing site)

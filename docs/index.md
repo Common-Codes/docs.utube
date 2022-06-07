@@ -5,4 +5,4 @@ These Docs are hosted on [GitHub](https://github.com/Common-Codes/docs.utube), w
 
 **Please read the [Contribution Guidelines](https://docs.osutube.nl/contributing) before contributing!**
 
-## Index
+## [V1 Index](https://common-codes.github.io/docs.utube/v1)

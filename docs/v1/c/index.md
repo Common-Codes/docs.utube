@@ -1,5 +1,5 @@
-# /c/{`#`, `?`} (channel)
-## Usage and Examples:
+# /c/# (channel)
+## Method and Values:
 Method: `GET`
 
 Possible Values: /c/#{`followers`, `type`, `logo`, `banner`, `url`, `legacy id`, `channel`}
@@ -18,5 +18,6 @@ Filtering by `URL`, `logo` & `banner` is sometimes very broken, so it is not rec
 Queries by `legacy id` & `channel` return **one** specific channel, and all it's data. `/c/#channel=CKStudios2018` - `/c/#legacy_id=`legacy id
 
 #### To Note:
-Everything in this doc was written to query with `#`, but can also be queried with `?`.
-Queries are also structured following Firefox's standard of adding a `/` before a query, but on Chromium based browsers you can directly access endpoints with `/c?`.
+Everything in this doc was written to query with `#`, and can only be queried like so.
+
+Queries are also structured following Firefox's standard of adding a `/` before a query, but on Chromium based browsers you can directly access endpoints with `/c#`.

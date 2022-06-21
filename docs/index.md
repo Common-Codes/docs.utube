@@ -1,8 +1,10 @@
-# [uTube](https://ckstudios2018.github.io/OpenSource-uTube) [API](https://api.osutube.nl) Docs
+# [uTube](https://ckstudios2018.github.io/OpenSource-uTube) Docs
 #### The developer's entry point to an Open Source world of Tube
 
 These Docs are hosted on [GitHub](https://github.com/Common-Codes/docs.utube), written by [V1RU5](https://github.com/jodri-code), [TallerThanShort](https://github.com/TallerThanShort) and Maintained by the [[Community]](https://github.com/Common-Codes/docs.utube/graphs/contributors).
 
 **Please read the [[Contribution Guidelines]](https://common-codes.github.io/docs.utube/contributing) before contributing!**
 
-## [V1 Index](https://common-codes.github.io/docs.utube/v1)
+# Index
+- API
+- - [V1 Index](https://common-codes.github.io/docs.utube/api/v1)

@@ -3,7 +3,7 @@
 
 These Docs are hosted on [[GitHub]](https://github.com/Common-Codes/docs.utube), written by [V1RU5](https://github.com/jodri-code), [TallerThanShort](https://github.com/TallerThanShort) and Maintained by the [[Community]](https://github.com/Common-Codes/docs.utube/graphs/contributors).
 
-**Please read the [[Contribution Guidelines]](https://common-codes.github.io/docs.utube/contributing) before contributing!**
+**Please read the [[Contribution Guidelines]](https://github.com/Common-Codes/docs.utube/blob/main/docs/contributing.md) before contributing!**
 
 # Index
 - API

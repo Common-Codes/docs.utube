@@ -4,7 +4,7 @@ Docs for the simple `GET`/`FETCH` uTube API
 This README file is essentially useless atm ngl...
 
 ## For Contributors:
-**Please read the [[Contributing Guidelines]](https://https://common-codes.github.io/docs.utube/contributing)**
+**Please read the [[Contributing Guidelines]](https://github.com/Common-Codes/docs.utube/blob/main/docs/contributing.md)**
 
 # Links
 ## OpenSource-uTube

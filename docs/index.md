@@ -8,5 +8,8 @@ This documentation covers the official [`utubei`](https://common-codes.github.io
 **Please read the [[Contribution Guidelines]](https://github.com/Common-Codes/docs.utube/blob/main/docs/contributing.md) before contributing!**
 
 # Index
-- API
+- Site Docs
+- - Original Site's [docs](https://Common-Codes.github.io/docs.utube/site/ckstudios)
+- - New Site's [docs](https://common-codes.github.io/docs.utube/site/continuations)
+- API Docs
 - - [V1 (stable) Docs](https://common-codes.github.io/docs.utube/api/v1)

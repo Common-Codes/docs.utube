@@ -1,5 +1,5 @@
-# Landing [site](https://common-codes.github.io/docs.utube) for the [uTube API](https://common-codes.github.io/utubei)
-Docs for the simple `GET`/`FETCH` uTube API & some uTube general docs
+# Landing [site](https://common-codes.github.io/docs.utube) for the [uTube API](https://common-codes.github.io/utubei) & [uTube](https://common-codes.github.io/OpenSource-uTube) docs
+Docs for the simple `GET`/`FETCH` uTube API & some general uTube docs
 
 This README file is essentially useless atm ngl...
 

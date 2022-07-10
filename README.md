@@ -1,5 +1,5 @@
 # Landing [site](https://common-codes.github.io/docs.utube) for the [uTube API](https://common-codes.github.io/utubei)
-Docs for the simple `GET`/`FETCH` uTube API
+Docs for the simple `GET`/`FETCH` uTube API & some uTube general docs
 
 This README file is essentially useless atm ngl...
 
@@ -8,7 +8,7 @@ This README file is essentially useless atm ngl...
 
 # Links
 ## OpenSource-uTube
-- [uTube](https://ckstudios2018.github.io/OpenSource-utube.nl) Landing Site
+- [uTube](https://common-codes.github.io/OpenSource-utube.nl) Landing Site
 - [ut3.ggpht](https://tallerthanshort.github.io/ut3.ggpht) image CDN
 ## API
 - [utubei](https://common-codes.github.io/utubei) API landing site

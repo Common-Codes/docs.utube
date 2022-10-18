@@ -16,8 +16,8 @@ As we are using the official API, which is `read-all` by the way, any data colle
 
 To keep the site from making money for other companies behind our backs while collecting site stats and metrics, we use a [Self-Hosted](https://plausible.io/docs/self-hosting) instance of [Plausible](https://plausible.io/), to keep all your site navigations completely anonymous.
 
-We can never know who it was that liked, watched, or visited any exact page.
+We can never know who it was that watched any particular video or visited any exact page.
 
 Furthermore, all the 'Privacy Settings' from YouTube are always enabled on uTube.
 
-###### *channel data, video data, and all follow-up data collected or used on the site, excluding hashed emails and passwords.
+###### *channel data, video data, followers data and all follow-up data (if any) collected or used on the site, excluding hashed emails and passwords.
